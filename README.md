@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm **Junaid Jamadar**, a Mechanical Engineering graduate who discovered a passion for coding and transitioned into the world of **Java Full Stack Development**.
-
+<h3>I'm Junaid Jamadar, a passionate and dedicated Java Full Stack Developer with hands-on experience in building dynamic web applications using modern technologies like Spring Boot and React.js.</h3>
 ---
 
 - 🔭 I’m currently working on: Full Stack web apps using **Spring Boot** & **React.js**
