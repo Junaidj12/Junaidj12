@@ -1,5 +1,9 @@
 ## 👋 Hi there!
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Umar9696&label=Profile%20views&color=0e75b6&style=flat" alt="Junaidj12" />
+</p>
+
 <h3 align="left" style="color:#2e86de;">I'm <span style="color:#d63031;">Junaid Jamadar</span>, a passionate and dedicated <span style="color:#00b894;">Java Full Stack Developer</span> with hands-on experience in building dynamic web applications using modern technologies like <span style="color:#6c5ce7;">Spring Boot</span> and <span style="color:#fd79a8;">React.js</span>.</h3>
 
 ---
