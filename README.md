@@ -16,11 +16,11 @@ I'm **Junaid Jamadar**, a Mechanical Engineering graduate who discovered a passi
 
 ### 💻 Tech Stack & Skills
 
-- **Languages:** Java, JavaScript  
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
-- **Backend:** Spring Boot, Servlets, JSP  
+- **Languages:** Java
+- **Frontend:** HTML, CSS, JavaScript, React.js 
+- **Backend:** Spring Boot, Servlets  
 - **Database & ORM:** MySQL, Hibernate  
-- **Others:** Git, GitHub, REST APIs, Thymeleaf, IntelliJ, VS Code
+- **Others:** GitHub, REST APIs, Thymeleaf, Eclipse IDE, VS Code
 
 ---
 
